@@ -1,0 +1,5 @@
+Django==6.0.3
+djangorestframework
+djangorestframework-simplejwt
+django-filter
+python-decouple

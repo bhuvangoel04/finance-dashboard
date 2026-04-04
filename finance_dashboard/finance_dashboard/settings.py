@@ -40,9 +40,9 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework_simplejwt',
     'django_filters',
-    'python_decouple',
+    'decouple',
     # Local apps
-    'Users',
+    'users',
 ]
 
 MIDDLEWARE = [

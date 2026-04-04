@@ -43,6 +43,8 @@ INSTALLED_APPS = [
     'decouple',
     # Local apps
     'users',
+    'records',
+    'dashboard',
 ]
 
 MIDDLEWARE = [
